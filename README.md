@@ -5,4 +5,4 @@
 ![image](https://github.com/TankSao/FirstStartDemo/blob/master/images/img1.jpg)</br>
 ![image](https://github.com/TankSao/FirstStartDemo/blob/master/images/img2.jpg)</br>
 ![image](https://github.com/TankSao/FirstStartDemo/blob/master/images/img3.jpg)</br>
-![image](https://github.com/TankSao/FirstStartDemo/blob/master/images/img4.jpg)</br>
+![image](https://github.com/TankSao/FirstStartDemo/blob/master/images/img4.png)</br>
